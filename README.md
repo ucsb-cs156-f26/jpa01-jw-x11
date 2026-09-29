@@ -1,6 +1,6 @@
 # jpa01-jw-x11
 
-Deployed at: http://jpa01-jw-x11.dokku-03.cs.ucsb.edu/
+Deployed at: https://jpa01-jw-x11.dokku-03.cs.ucsb.edu/
 
 
 # About this repo
